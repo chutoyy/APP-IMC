@@ -7,12 +7,38 @@ BELLOT Julien
 Campus de Valenciennes
 
 
+## Installation
 
 
-Créer l'Application via la commande
-expo init app-imc 
 
-Démarrer l'Application
-npm start 
+Dans un terminal lancer la commande :
+
+
+
+`git clone https://github.com/chutoyy/APP-IMC.git`
+
+
+
+Se positionner dans le répertoire nouvellement créé :
+
+
+
+`cd APP-IMC`
+
+
+
+Télécharger les dépendances :
+
+
+
+`npm install`
+
+
+
+Lancer l'application
+
+
+
+`npm start`
 
 
